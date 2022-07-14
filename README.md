@@ -5,7 +5,7 @@
 
 🌏 Passionate about discipline, my favorite phrase is, **"every decision must be based on data"**.
 
-
+<!--
 ### 🎯Some technologies I use:
 -----
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
@@ -32,8 +32,10 @@
 ![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 
+-->
 <!-- estadisticas -->
 
-
+<!-- 
 | <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
 | ------------- | ------------- |
+-->
