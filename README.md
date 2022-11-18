@@ -1,10 +1,8 @@
 
 
-<h1 align="center">👋 Hi there, I'm Angel Garcia </h1><h3 align="center">eeeee</h3>- Actualmente estoy trabajando en **jkbc**- Actualmente estoy aprendiendo **dv**- Estoy buscando colaborar en **grrgr**- 👯 💬 🌱 🔭 Pregúntame sobre **fre**
+<h1 align="center">👋 Hi there, I'm Angel Garcia </h1><h3 align="center">🌱 I'm a **Data Scientist**, I like to solve problems that involve helping the environment.
+🌏 Passionate about discipline, my favorite phrase is, **"every decision must be based on data"**.</h3>- Actualmente estoy trabajando en **jkbc**- Actualmente estoy aprendiendo **dv**- Estoy buscando colaborar en **grrgr**- 👯 💬 🌱 🔭 Pregúntame sobre **fre**
 
-🌱 I'm a **Data Scientist**, I like to solve problems that involve helping the environment.
-
-🌏 Passionate about discipline, my favorite phrase is, **"every decision must be based on data"**.
 
 
 
