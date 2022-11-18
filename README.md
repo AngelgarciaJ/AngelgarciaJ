@@ -1,7 +1,7 @@
 
 
-<h1 align="center">👋 Hi there, I'm Angel Garcia </h1><h3 align="center">🌱 I'm a **Data Scientist**, I like to solve problems that involve helping the environment.
-🌏 Passionate about discipline, my favorite phrase is, **"every decision must be based on data"**.</h3>
+<h1 align="center">👋 Hi there, I'm Angel Garcia </h1><h3 align="center">🌱 I'm a Data Scientist, I like to solve problems that involve helping the environment.
+🌏 Passionate about discipline, my favorite phrase is, "every decision must be based on data".</h3>
 
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
