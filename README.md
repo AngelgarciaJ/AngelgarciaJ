@@ -1,13 +1,13 @@
 
 
-<h1 align="center">👋 Hi there, I'm Angel Garcia </h1><h3 align="center">🌱 I'm a Data Scientist, I like to solve problems that involve helping the environment.
+<h1 align="center">👋 Hi there, I'm Angel  </h1><h3 align="center">🌱 I'm a Data Scientist, I like to solve problems that involve helping the environment.
 🌏 Passionate about discipline, my favorite phrase is, "every decision must be based on data".</h3>
 
 
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 <a href="https://twitter.com/AngelGarcaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AngelGarcaj1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angelgarciaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelgarciaj" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
+<a href="https://linkedin.com/in/AngelRaulGarciaJimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AngelRaulGarciaJimenez" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
 
 
 
