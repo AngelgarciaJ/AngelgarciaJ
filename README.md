@@ -8,7 +8,7 @@
 
 
 
-<a href="https://twitter.com/angelgarciaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angelgarciaj1" height="30" width="40" /></a>
+<a href="https://twitter.com/AngelGarcaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AngelGarcaj1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angelgarciaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelgarciaj" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
 
 
