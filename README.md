@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there, I'm Angel  </h1><h3 align="center">🌱 I'm a Data Scientist, I like to solve problems that involve helping the environment.
 🌏 Passionate about discipline, my favorite phrase is, "every decision must be based on data".</h3>
 
-
+<!--
 <h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 <a href="https://twitter.com/AngelGarcaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AngelGarcaj1" height="30" width="40" /></a>
@@ -16,4 +16,5 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgarciaj&show_icons=true&locale=en&layout=compact" alt="angelgarciaj" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelgarciaj&show_icons=true&locale=en" alt="angelgarciaj" /></p>
 -->
+
 
